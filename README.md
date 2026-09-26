@@ -14,11 +14,15 @@ Data Pipeline Architecture and Tech Stack:
 * 
 ##  Dashboard Executive Preview
 
-![Executive Overview](Screenshot%202026-09-25%20161834.png)
-![Geographic & RFM](Screenshot%202026-09-25%20161856.png)
-![Seller Operations](Screenshot%202026-09-25%20161936.png)
-![Payment Analytics](Screenshot%202026-09-25%20161950.png)
-![Products & Satisfaction](Screenshot%202026-09-25%20162007.png)
+![Executive Overview](images/Screenshot%202026-09-25%20161834.png)
+
+![Geographic & RFM](images/Screenshot%202026-09-25%20161856.png)
+
+![Seller Operations](images/Screenshot%202026-09-25%20161936.png)
+
+![Payment Analytics](images/Screenshot%202026-09-25%20161950.png)
+
+![Products & Satisfaction](images/Screenshot%202026-09-25%20162007.png)
 
 ---
 Key Analytical Modules and Pages:
