@@ -5,6 +5,15 @@ An end-to-end Data Engineering and Business Intelligence project leveraging Post
 Project Overview:
 This project simulates an enterprise-grade analytics solution for Olist, Brazil’s largest e-commerce marketplace. The primary objective was to build a robust relational database schema, clean and transform multi-table transactional data, and engineer key business performance metrics such as RFM segmentation, seller tiering, logistics delivery bottlenecks, and payment structures.
 
+##  Dataset Source & Key Highlights
+
+This project utilizes the **Brazilian E-Commerce Public Dataset by Olist**, sourced directly from **Kaggle**. It consists of authentic commercial data generated from over 100,000 orders placed on Olist's marketplace between 2016 and 2018 in Brazil.
+
+### Dataset Structural Highlights & Metrics
+- **Real-World Commercial Scale:** Analyzes real transactional behavior spanning **100,000+ orders** and **$13.2M+ in total processed revenue**.
+- **Complex Relational Architecture:** Built around **9 interconnected tables** covering orders, customer profiles, product attributes, marketplace sellers, payments, and reviews.
+- **Rich Operational Diversity:** Tracks **3,000+ active marketplace sellers** selling across **32,000+ distinct product categories**.
+- **End-to-End E-Commerce Scope:** Provides deep visibility into the entire customer journey — from order purchase timestamps and seller dispatch lead times to multi-installment payment gateways and customer satisfaction feedback (99K+ reviews).
 Data Pipeline Architecture and Tech Stack:
 
 * Database and Ingestion: PostgreSQL and pgAdmin for Schema Design, DDL, Constraints, and Relational Modeling
