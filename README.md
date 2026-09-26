@@ -11,7 +11,16 @@ Data Pipeline Architecture and Tech Stack:
 * ETL and Data Transformation: Advanced SQL including Multi-table JOINs, Window Functions, RFM Scoring, and Aggregations
 * Data Modeling: Power BI Star Schema and Fact-Dimension Relationships
 * DAX and Calculations: Power BI Dynamic KPIs, MoM Growth Rates, and Seller Performance Tiers
+* 
+##  Dashboard Executive Preview
 
+![Executive Overview](Screenshot%202026-09-25%20161834.png)
+![Geographic & RFM](Screenshot%202026-09-25%20161856.png)
+![Seller Operations](Screenshot%202026-09-25%20161936.png)
+![Payment Analytics](Screenshot%202026-09-25%20161950.png)
+![Products & Satisfaction](Screenshot%202026-09-25%20162007.png)
+
+---
 Key Analytical Modules and Pages:
 
 1. Executive Overview: High-level revenue, order volume, average order value, and overall customer loss rate metrics.
