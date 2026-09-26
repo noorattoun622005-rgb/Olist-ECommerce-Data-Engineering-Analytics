@@ -44,7 +44,7 @@ Key Analytical Modules and Pages:
 
 Project Downloads and Interactive Files
 
-Download Full Power BI Report (.pbix): [Click Here to View on Google Drive](https://drive.google.com/file/d/1YzaHPBCzYfB17x6_8Lnw-hXcks5f2Yiy/view?usp=sharing)
+- Download Full Power BI Report (.pbix): [Click Here to View on Google Drive](https://drive.google.com/file/d/1YzaHPBCzYfB17x6_8Lnw-hXcks5f2Yiy/view?usp=sharing)
 
 Key Business Insights Generated:
 
